@@ -32,8 +32,13 @@
 
 ## 🚀 Mes projets  
 
+Projet enchère de timbre (stampee)
+Technologies utilisées : php(mvc objet), css, vanilla javascript
 [![Stampee site enchère de timbre](./assets/stampee.webp)](https://github.com/TekGeekdev/stampee)  
-[![Stampee site enchère de timbre](./assets/club-de-voyage.png)](https://github.com/TekGeekdev/wp-club-de-voyage)  
+
+Projet club de voyage
+Technologies utilisées : php, wordpress, css, sass
+[![theme club de voyage wordpress](./assets/club-de-voyage.png)](https://github.com/TekGeekdev/wp-club-de-voyage)  
  
 
 ---
@@ -47,8 +52,8 @@
 
 ## 🎯 Autres centres d’intérêt  
 
-- 🍓 J’ai monté un **cluster de Raspberry Pi** et l’ai rendu accessible sur Internet  
+- 🍓 J’ai monté un **cluster de Raspberry Pi** 
 - 🛡️ Passionné de cybersécurité, je pratique sur **Root-Me**  
-- 🛠️ J’aime **bricoler et réparer mes souris ou modifier mes PC** ! [🔧 Voir une de mes modifications](./projetSwitchRemplacement/README.md)  
+- 🛠️ J’aime **bricoler et réparer mes souris** ! [🔧 Voici le changement switch de ma G903](./projetSwitchRemplacement/README.md)  
 
 ---
