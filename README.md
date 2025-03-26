@@ -34,7 +34,7 @@
 
 | Projet | Description | Aperçu |
 |--------|------------|--------|
-| **Projet enchère de timbre (Stampee)**  | Technologies : **PHP (MVC Objet)**, CSS, Vanilla JavaScript  | [![Stampee site enchère de timbre](./assets/stampee.webp)](https://github.com/TekGeekdev/stampee) |
+| **Projet enchère de timbre (Stampee)**  | Technologies : **PHP (MVC Objet), CSS, Vanilla JavaScript**  | [![Stampee site enchère de timbre](./assets/stampee.webp)](https://github.com/TekGeekdev/stampee) |
 | **Projet club de voyage** | Technologies : **PHP, WordPress, CSS, SASS** | [![Theme club de voyage WordPress](./assets/club-de-voyage.png)](https://github.com/TekGeekdev/wp-club-de-voyage) |
  
 
@@ -52,6 +52,7 @@
 
 - 🍓 J’ai monté un **cluster de Raspberry Pi** 
 - 🛡️ Passionné de cybersécurité, je pratique sur **Root-Me**  
-- 🛠️ J’aime **bricoler et réparer mes souris** ! [🔧 Voici le changement switch de ma G903](./projetSwitchRemplacement/README.md)  
+- 🛠️ J’aime **bricoler et réparer mes souris** ! 
+         [🔧 Voici le changement switch de ma G903](./projetSwitchRemplacement/README.md) [🔧 Et ceux de ma G604](./switchg604/README.md)
 
 ---
