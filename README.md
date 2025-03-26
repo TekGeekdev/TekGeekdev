@@ -32,20 +32,18 @@
 
 ## 🚀 Mes projets  
 
-Projet enchère de timbre (stampee)
-Technologies utilisées : php(mvc objet), css, vanilla javascript
-[![Stampee site enchère de timbre](./assets/stampee.webp)](https://github.com/TekGeekdev/stampee)  
-
-Projet club de voyage
-Technologies utilisées : php, wordpress, css, sass
-[![theme club de voyage wordpress](./assets/club-de-voyage.png)](https://github.com/TekGeekdev/wp-club-de-voyage)  
+| Projet | Description | Aperçu |
+|--------|------------|--------|
+| **Projet enchère de timbre (Stampee)**  | Technologies : **PHP (MVC Objet)**, CSS, Vanilla JavaScript  | [![Stampee site enchère de timbre](./assets/stampee.webp)](https://github.com/TekGeekdev/stampee) |
+| **Projet club de voyage** | Technologies : **PHP, WordPress, CSS, SASS** | [![Theme club de voyage WordPress](./assets/club-de-voyage.png)](https://github.com/TekGeekdev/wp-club-de-voyage) |
  
 
 ---
 
 ## 🌍 Me contacter  
 
-[![](./assets/linkedin.png)](https://www.linkedin.com/in/mathieu-ledeur-439396247/)  
+[![](./assets/linkedin.png)](https://www.linkedin.com/in/mathieu-ledeur-439396247/)
+  
 📩 [Me contacter](mailto:TekGeek_dev@protonmail.com)
 
 ---
