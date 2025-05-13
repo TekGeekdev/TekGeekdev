@@ -44,7 +44,7 @@
 
 [![](./assets/linkedin.png)](https://www.linkedin.com/in/mathieu-ledeur-439396247/)
   
-📩 [Me contacter](mailto:TekGeek_dev@protonmail.com)
+📩 [Me contacter](mailto:m.ledeur.pro@gmail.com)
 
 ---
 
