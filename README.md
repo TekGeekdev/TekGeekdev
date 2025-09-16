@@ -9,7 +9,7 @@ english below
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-[![Site web](https://img.shields.io/badge/Site-tekgeek--dev.ovh-111111?logo=firefox-browser&logoColor=white)](https://tekgeek-dev.ovh/)
+[![Site web](https://img.shields.io/badge/Site-tekgeek--dev.ovh-111111?logo=firefox-browser&logoColor=white)](https://tekgeek-dev.fr/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathieu-ledeur-439396247/)
 [![Email](https://img.shields.io/badge/Email-m.ledeur.pro%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:m.ledeur.pro@gmail.com)
 ![Visitors](https://komarev.com/ghpvc/?username=TekGeekdev&label=Visitors&color=0e75b6)
@@ -110,7 +110,7 @@ Passionné par les technologies, je conçois et développe des applications web 
 
 ## 📫 Me contacter
 
-- [![Site](https://img.shields.io/badge/Site-tekgeek--dev.ovh-111111?logo=firefox-browser&logoColor=white)](https://tekgeek-dev.ovh/)
+- [![Site](https://img.shields.io/badge/Site-tekgeek--dev.ovh-111111?logo=firefox-browser&logoColor=white)](https://tekgeek-dev.fr/)
 - [![Email](https://img.shields.io/badge/Email-m.ledeur.pro%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:m.ledeur.pro@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathieu-ledeur-439396247/)
 
@@ -144,6 +144,6 @@ Passionate about technology, I design and build **robust**, **maintainable**, an
 - **2024 — Travel Club Theme (WordPress, PHP, SASS)** — Custom theme integration. [Code](https://github.com/TekGeekdev/wp-club-de-voyage)  
 
 ### 📫 Contact
-- 🌐 https://tekgeek-dev.ovh/  
+- 🌐 https://tekgeek-dev.fr/  
 - 📧 m.ledeur.pro@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/mathieu-ledeur-439396247/
